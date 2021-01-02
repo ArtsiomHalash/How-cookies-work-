@@ -7,12 +7,12 @@ I decided to tell the meaning of cookies by illustrating a simple and colorful c
 Screenshot of the index pag of the comic.
 ![alt text](screenshot.png)
 
-###Technologies 
+### Technologies 
 * HTML 5, CSS 3
 * Illustrations in *Illustrator, *Adobe XD
 
-###Status 
+### Status 
 There are a lot more ideas to be illustrated and explained in comics. Continue the story of cookies, Improve phone grid and layout.
 
-###Inspiration 
+### Inspiration 
 Great thanks to guy from [dnsimple.com](https://howhttps.works) for their comics that imspired me to spread awarness in a creative way.
