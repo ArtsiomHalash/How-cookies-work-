@@ -9,7 +9,7 @@ Screenshot of the index pag of the comic.
 
 ### Technologies 
 * HTML 5, CSS 3
-* Illustrations in *Illustrator, *Adobe XD
+* Illustrations in *Illustrator*, *Adobe XD*
 
 ### Status 
 There are a lot more ideas to be illustrated and explained in comics. Continue the story of cookies, Improve phone grid and layout.
